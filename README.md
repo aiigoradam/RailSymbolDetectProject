@@ -57,8 +57,9 @@ RailSymbolDetect is an advanced image processing and machine learning project de
 
 ## Results Visualization
 
-![Result Example](Augmentation.png)
-![Result Example](rotation_animation.gif)
+![Result Example](Result1.png)
+![Result Example](Result2.png)
+![Result Example](Result3.png)
 
 ## Future Directions
 
