@@ -57,7 +57,8 @@ RailSymbolDetect is an advanced image processing and machine learning project de
 
 ## Results Visualization
 
-The project includes comprehensive visualizations of detection results, showcasing the model's ability to accurately identify and classify various railway symbols within complex schematics.
+![Result Example](Result1.png)
+
 
 ## Future Directions
 
